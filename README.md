@@ -3,8 +3,19 @@
 3. asdas
 
 - asd
+
+
+- [ ] Calcule a media aritmética de $n$ notas informadas pelo usuário. $\bar{x} = \frac{1}{n}\sum_{i=1}^{n}x$
+
+
+
 - [ ] sdas 
 
+ai vai dica: 
+```c
+int main
+
+```
 
 ```mermaid
 graph LR
