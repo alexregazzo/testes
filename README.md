@@ -4,7 +4,7 @@
 teste de git
 - asd
 Consertando o issue
-
+resolve o issue
 - [ ] Calcule a media aritmética de $n$ notas informadas pelo usuário. $\bar{x} = \frac{1}{n}\sum_{i=1}^{n}x$
 
 
